@@ -1,12 +1,16 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Hi,%20I%20am%20Tania%20✨&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%"/>
-</p>
-
-<!-- DANCING GIRL CARTOON ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4zcTlyY3V3eW84dHZyMXptdWQzbmI5ZjByNWk5MW83eHNjcWZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGfl300M1lZ2uTInDk/giphy.gif" width="130px" alt="Cute Waving Girl Cartoon"/>
-</p>
+<!-- HEADER BANNER WITH WAVING GIRL CARTOON -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Hi,%20I%20am%20Tania%20✨&fontSize=36&animation=twinkling&fontColor=ffffff" width="100%"/>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4zcTlyY3V3eW84dHZyMXptdWQzbmI5ZjByNWk5MW83eHNjcWZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGfl300M1lZ2uTInDk/giphy.gif" width="120px" alt="Waving Girl Cartoon"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="center">
   ⚡ Low-Level & Systems Programmer | Data Science & Security Enthusiast ⚡
