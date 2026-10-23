@@ -19,7 +19,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 💻 About Me
 
 * 🎓 **Academic:** Pursuing B.Sc. in Computer Science & Engineering (CSE).
 * 🔐 **Security & Cryptography:** Researching cryptographic protocols, system security architectures, and secure communication.
@@ -29,25 +29,30 @@
 
 ---
 
-### 💻 `whoami`
+### 🛠️ Tech Stack & CSE Skillset
 
-```c
-#include <stdio.h>
+<div align="center">
 
-typedef struct {
-    char* name;
-    char* primary_langs[4];
-    char* core_domains[4];
-    char* status;
-} Developer;
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Core Languages** | <img src="https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> |
+| **Data Science & ML** | <img src="https://img.shields.io/badge/Data_Science-FF1493?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> |
+| **Security & Crypto** | <img src="https://img.shields.io/badge/Cryptography-AES%2FRSA-00F0FF?style=for-the-badge&logo=1password&logoColor=white"/> <img src="https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=kali-linux&logoColor=white"/> |
+| **Networking** | <img src="https://img.shields.io/badge/Networking-TCP%2FIP-FF69B4?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/Database_Systems-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white"/> |
 
-int main() {
-    Developer dev = {
-        .name = "Tania Akter Mim",
-        .primary_langs = {"C", "C++", "Python", "C#"},
-        .core_domains = {"Data Science", "Cryptography", "Networking", "Databases"},
-        .status = "Decoding complex algorithms & engineering secure systems 🔐"
-    };
-    printf("Status: %s\n", dev.status);
-    return 0;
-}
+</div>
+
+---
+
+### ⚡ GitHub Activity & Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taniamim123&show_icons=true&title_color=FF69B4&text_color=ffffff&bg_color=0D1117&border_color=FFB6C1&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniamim123&layout=compact&title_color=FF69B4&text_color=ffffff&bg_color=0D1117&border_color=FFB6C1"/>
+</p>
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FFB6C1&height=100&section=footer" width="100%"/>
+</p>
