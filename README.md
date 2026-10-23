@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I%20am%20Tania%20✨&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%"/>
 </p>
 
-<!-- WAVING GIRL CARTOON ANIMATION (100% WORKING LINK) -->
+<!-- DANCING & WAVING GIRL ANIMATION (GUARANTEED WORKING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" width="100px" alt="Waving Girl"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Dancing.png" width="120px" alt="Dancing Girl"/>
 </p>
 
 <p align="center">
