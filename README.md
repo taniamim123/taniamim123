@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I%20am%20Tania%20✨&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%"/>
 </p>
 
-<!-- DANCING & WAVING GIRL ANIMATION (GUARANTEED WORKING) -->
+<!-- WAVING CUTE GIRL ANIMATION (MOVING GIF) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Dancing.png" width="120px" alt="Dancing Girl"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4zcTlyY3V3eW84dHZyMXptdWQzbmI5ZjByNWk5MW83eHNjcWZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGfl300M1lZ2uTInDk/giphy.gif" width="140px" alt="Waving Girl Animation"/>
 </p>
 
 <p align="center">
@@ -16,8 +16,9 @@
   ⚡ Low-Level & Systems Programmer | Data Science & Security Enthusiast ⚡
 </h3>
 
+<!-- WORKING PROFILE VIEWS COUNTER BADGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taniamim123&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftaniamim123&count_bg=%2300F0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/>
 </p>
 
 ---
