@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=200&section=header&text=Hi,%20I%20am%20Tania%20✨&fontSize=38&animation=twinkling&fontColor=ffffff" width="100%"/>
 </p>
 
-<!-- WAVING GIRL CARTOON ANIMATION -->
+<!-- WAVING GIRL CARTOON ANIMATION (100% WORKING LINK) -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Tipping%20Hand.png" width="100px" alt="Waving Girl"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW4zcTlyY3V3eW84dHZyMXptdWQzbmI5ZjByNWk5MW83eHNjcWZ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mGfl300M1lZ2uTInDk/giphy.gif" width="140px" alt="Waving Girl Cartoon"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 <h3 align="center">
